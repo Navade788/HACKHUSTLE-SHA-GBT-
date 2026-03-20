@@ -226,6 +226,13 @@ async function upload() {
 </html>
 
 ```
+## UI
+
+<img width="1448" height="901" alt="image" src="https://github.com/user-attachments/assets/5121d333-b3a3-4eec-9a40-fd138105ccf1" />
+
+<img width="1718" height="1064" alt="Screenshot 2026-03-20 161315 (1)" src="https://github.com/user-attachments/assets/fafffd62-d2f0-4f12-87c4-50350787274d" />
+
+<img width="1766" height="1063" alt="Screenshot 2026-03-20 161331 (1)" src="https://github.com/user-attachments/assets/d5e6df7d-9815-49f7-b700-1f193b5197ff" />
 
 ## Machine Learning Model
 
